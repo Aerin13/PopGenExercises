@@ -1,3 +1,5 @@
 # Population Genetics Exercises
 
-Starting with the Gillespie book.
+Worked exercises from population genetics. 
+Currently working through John H. Gillespie's Population Genetics textbook.
+
