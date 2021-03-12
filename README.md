@@ -7,3 +7,4 @@ To see the html output of the jupyter notebooks easily, navigate to [the Github 
 
 - [Gillespie chapter 2](GillespieCh2.html)
 - [Gillespie chapter 3](GillespieCh3.html)
+- [Gillespie chapter 3 part 2](GillespieCh3Part2.html)
